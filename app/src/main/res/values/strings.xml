@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RedditTest</string>
+    <string name="like">like</string>
+    <string name="dislike">dislike</string>
+    <string name="homeTitle">Reddit Posts</string>
+    <string name="back">Go Back</string>
+    <string name="comment">Comment</string>
+
+    <plurals name="comments">
+        <item quantity="one">%d comment</item>
+        <item quantity="other">%d comments</item>
+    </plurals>
+</resources>
